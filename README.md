@@ -4,7 +4,7 @@
 
 ![Mdiaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdiaas&show_icons=true&bg_color=00000000)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdiaas)](https://github.com/mdiaas/github-readme-stats)
 ## Tecnologias que utilizo no meu dia a dia
 <div style="display:inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
