@@ -1,5 +1,6 @@
 # Eai, me chamo Mateus Dias, seja bem vindo ao meu github
-
+## Sobre mim:
+### Apaixonado por tecnologia e jogos, conheci programação com 16 anos, ao fazer o curso técnico em mecatrônica, após isso, como ensino superior estudei Engenharia de computação no centro universitário FACENS, no qual me formei em dezembro de 2021.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-augusto-machado-dias-67629415b/)
 
 ![Mdiaas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdiaas&show_icons=true&bg_color=00000000)
