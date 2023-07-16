@@ -19,5 +19,4 @@
 </div>
 
 
-### Atualmente atuo como desenvolvedor fullstack utilizando html5, css3 e javascript no front-end e PHP no back-end.
-### Porém estou muito interessado em aprender e migrar para desenvolvimento front-end com React, por isso estou estudando muito e desenvolvendo novos projetos para meu aprendizado
+### Atualmente atuo como desenvolvedor back-end em GoLang e também atuando em sistemas legados com PHP, html, css e javascript`.
